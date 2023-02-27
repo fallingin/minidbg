@@ -1,0 +1,7 @@
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/rebuild_cache.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/edit_cache.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/libelfin.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/unwinding.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/hello.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/variable.dir
+/home/wangning/minidbg-tut_setup/minidbg-tut_setup/CMakeFiles/minidbg.dir
